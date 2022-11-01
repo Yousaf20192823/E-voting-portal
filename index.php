@@ -22,7 +22,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
--->
+--->
 <?php include ('includes/header.php'); ?>
 <div id="content">
     <div id="info1"class="info" style="height: 300px;">
@@ -34,11 +34,11 @@ THE SOFTWARE
         <span id="notice">
             <h1>NOTICES</h1>
             <ul>
-                <li>Notice 1</li>
-                <li>Notice 2</li>
-                <li>Notice 3</li>
-                <li>Notice 4</li>
-                <li>Notice 5</li>
+                <li>Notice a</li>
+                <li>Notice b</li>
+                <li>Notice c</li>
+                <li>Notice d</li>
+                <li>Notice e</li>
             </ul>
         </span>
         <strong style="bottom: -220px;position: relative;">For any queries contact WebMaster: Anupam Das 1401CS52, Email: anupam.ee14[AT]iitp.ac.in </strong>
